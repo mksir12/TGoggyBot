@@ -16,3 +16,4 @@ async def ping(_, message):
     end_t = time.time()
     time_taken_s = (end_t - start_t) * 1000
     await rm.edit(f"Pong!\n{time_taken_s:.3f} ms")
+    await message.reply_sticker("CAACAgUAAxkBAAICRmSq1NCa7IRTH_iz1PyxlTD_CG8aAAIEAAPBJDExieUdbguzyBAeBA")
