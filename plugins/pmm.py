@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-MOVIEGROUP = {https://t.me/kmcrp_movie}
+MOVIEGROUP = {"https://t.me/kmcrp_movie"}
 
 @Client.on_message(filters.private | filters.text)
 async def no_pm(client, message):
