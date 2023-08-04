@@ -25,7 +25,7 @@ async def start(client, message):
                     InlineKeyboardButton('⛦ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ⛦', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🌐 Aʙᴏᴜᴛ', callback_data="about"),
-                    InlineKeyboardButton('⚙️ Dᴏɴᴀᴛᴇ', callback_data="supportg")
+                    InlineKeyboardButton('⚙️ Dᴏɴᴀᴛᴇ', url='https://t.me/xax_ha_ha_l')
                 ],[
                     InlineKeyboardButton('🔐 Hᴇʟᴩ', callback_data="help")
                   ]]
@@ -50,7 +50,7 @@ async def start(client, message):
                     InlineKeyboardButton('⛦ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ⛦', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🌐 Aʙᴏᴜᴛ', callback_data="about"),
-                    InlineKeyboardButton('⚙️ Dᴏɴᴀᴛᴇ', callback_data="supportg")
+                    InlineKeyboardButton('⚙️ Dᴏɴᴀᴛᴇ', url='https://t.me/xax_ha_ha_l')
                 ],[
                     InlineKeyboardButton('🔐 Hᴇʟᴩ', callback_data="help")
                   ]]
@@ -95,7 +95,7 @@ async def start(client, message):
                     InlineKeyboardButton('⛦ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ⛦', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🌐 Aʙᴏᴜᴛ', callback_data="about"),
-                    InlineKeyboardButton('⚙️ Dᴏɴᴀᴛᴇ', callback_data="supportg")
+                    InlineKeyboardButton('⚙️ Dᴏɴᴀᴛᴇ', url='https://t.me/xax_ha_ha_l')
                 ],[
                     InlineKeyboardButton('🔐 Hᴇʟᴩ', callback_data="help")
                   ]]
