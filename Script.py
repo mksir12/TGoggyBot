@@ -1,23 +1,24 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍
+
+𝐌𝐚𝐢𝐧𝐭𝐚𝐧𝐞𝐝 𝐁𝐲 <a href='https://t.me/xax_ha_ha_l'>𓆩OGGY𓆪 💎</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/creatorbeatz'>Jᴏᴇʟ Kᴜʀɪᴀɴ Bɪᴊᴜ</a>
-✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
+    ABOUT_TXT = ""<b>✯ Mʏ Nᴀᴍᴇ: {}
+    
+👦🏼 Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/xax_ha_ha_l'>𝙾𝙶𝙶𝚈 𝚇 𝙹𝙴𝚁𝚁𝚈</a>
+
+📡 Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>𝙹𝙴𝚁𝚁𝚈_𝙿𝙷𝙿</a>
+</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/Joelkb/DQ-The-File-Donor">ʜᴇʀᴇ</a>
+- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴩʀɪᴠᴀᴛᴇ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/testing_oggy_bot">ɴɪɴᴀᴋ ᴜʟᴜᴩᴩᴜɴᴅᴏ ᴍ**ᴇ 🤬</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a></b>"""
+- <a href="https://t.me/xax_ha_ha_l">𝙾𝙶𝙶𝚈 𝚇 𝙹𝙴𝚁𝚁𝚈</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -96,11 +97,13 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /delallg - <code>Tᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ Gғɪʟᴛᴇʀs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
 • /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>"""
 
-    STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
-★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
-★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
-★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
+    STATUS_TXT =  """<b>📑 Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
+👤 Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
+
+♻️ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
+🗃️ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
+
+🆓 Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -199,18 +202,21 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ ᴄʜᴀɴɴᴇʟ : @about_oggy
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @kmcrp_movie
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 IMDb Data:
 
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+🔰 ᴛɪᴛʟᴇ : {title}
+👻 ʀᴇqᴜᴇꜱᴛᴇᴅ ʙy : {message.from_user.mention}
+🌧️ ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ : {}
+
+⚠️ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇᴅ ᴀꜰᴛᴇʀ 10 ᴍɪɴᴜᴛᴇꜱ.
+
+• ꜱᴇʟᴇᴄᴛ yᴏᴜʀ ʟᴀɴɢᴜᴀɢᴇꜱ •</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -235,6 +241,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+
+@Testing_Oggy_Bot
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
