@@ -11,8 +11,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 👦🏼 Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/xax_ha_ha_l'>𝙾𝙶𝙶𝚈 𝚇 𝙹𝙴𝚁𝚁𝚈</a>
 
-📡 Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>𝙹𝙴𝚁𝚁𝚈_𝙿𝙷𝙿</a>
-</b>"""
+📡 Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>𝙹𝙴𝚁𝚁𝚈_𝙿𝙷𝙿</a></b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴩʀɪᴠᴀᴛᴇ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
